@@ -1,0 +1,24 @@
+{
+  "name": "ejs-template",
+  "version": "1.0.0",
+  "description": "Using Node.js we can produce different web page or data based on what info is found after the server address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucashwyi/ejs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucashwyi/ejs-template/issues"
+  },
+  "homepage": "https://github.com/Lucashwyi/ejs-template#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
